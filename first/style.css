@@ -1,0 +1,26 @@
+/*HTML Project 1 CSS*/
+body {
+  margin: 0;
+  background-color: #efefef;
+}
+
+#div1 {
+  background-color: #999;
+  height: 17vh;
+}
+
+#div2 {
+  background-color: #fff;
+  height: 75vh;
+}
+
+#div3 {
+  background-color: #000;
+  color: #fff;
+  height: 8vh;
+}
+
+.centered {
+  margin: auto;
+  width: 66%;
+}
