@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+}
+
+.horizontal {
+  height: 120px;
+  margin: 0;
+}
+
+.text {
+  height: 240px;
+  font-family: "Verdana", "Geneva", sans-serif;
+  font-size: 1.75em;
+  color: #555;
+  padding: 20px;
+}
+
+.grey {
+  background-color: #D8D8D8;
+  padding: 10px;
+}
+
+.blue {
+  background-color: #4A90E2;
+}
+
+.mint {
+  background-color: #50E3C2
+}
+
+.lime {
+  background-color: #B8E986;
+}
+
+.lemon {
+  background-color: #F8E71C;
+}
